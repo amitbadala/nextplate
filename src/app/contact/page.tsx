@@ -62,7 +62,7 @@ const Contact = () => {
               fontWeight: 100,
               padding: "10px 20px",
               background: "white",
-              border: "1px solid #5f18e7",
+              border: "1px solid #c2ff72",
               borderTop: "unset",
               textAlign: "center",
             }}
