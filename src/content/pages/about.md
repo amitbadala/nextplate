@@ -35,6 +35,18 @@ features:
     contentwidth: 8
     backgroundclass: bg-white
     content: "Rich is a thought leader, strategic advisor and experienced business executive specializing in hyper-growth Software-as-a-Service companies.  Rich has over 30 years of experience in building and executing winning strategies and establishing new routes to revenue. He has a proven track record for delivering innovative sales methodologies, go-to-market strategies, business plans and strategic alliance frameworks that drive results. <br/> <br/> Rich has built and led high performing sales, business development and technical teams for large and small global software organizations.  He has a wealth of experience and passion for building winning partner ecosystems to quickly scale revenue growth and exceed objectives.  He is a tenured senior executive and has served at companies such as Microsoft, NCR, Lawson Software and SPS Commerce which has become one of the most successful public SaaS companies in the US.  Rich founded CloudBridge Partners to fulfill his passion for mentoring and advising small and medium sized organizations to reach the next stage of growth. <br/> <br/>When Rich isn’t advising, he can be found in the British Virgin Islands on a sailboat with his wife and family enjoying one of his other passions in life." 
+
+  - title: "About Roy Anderson, Advisor"
+    image: "/images/roy_anderson.png"
+    contentwidth: 8
+    backgroundclass: bg-white
+    content: "Roy Anderson, has transformed Procurement teams to supply value activists, implementing leading procurement technology in multiple industries including Universities, Commercial and Military manufacturing, Insurance and Financial Services.  <br/> <br/> He is currently a Supply Chain lecturer at Northeastern University and advisor to SC technology firms.  Roy was the CPO at Tradeshift and Managing Director of Procurement startup GoProcure.  <br/> <br/> Prior to GoProcure Roy was the Chief Procurement Officer for State Street Bank, MetLife and John Hancock.   Mr. Anderson holds a B.S. and an MBA from Babson College in Wellesley, MA" 
+
+  - title: "About Brian, Advisor"
+    image: "/images/brian.jpeg"
+    contentwidth: 8
+    backgroundclass: bg-gray-100
+    content: "Brian is an accomplished entrepreneur and executive with domestic and international operations, and P&L responsibility. Brian is a results oriented, decisive leader with proven success in market identification and infiltration.  Brian has a strong track record for increasing sales, while growing the bottom-line profitability and implementing operational improvements.<br/> <br/>  During the course of his career Brian has held executive level positions in numerous consulting and software development firms including EY, InfoLogix, Catalyst International and Intermec Technologies, Brian was also the cofounder of LogiStar Solutions (now part of EY) and SCT Software." 
   
   - title: "What’s in a Name"
     image: "/images/undraw_adventure_map.svg"

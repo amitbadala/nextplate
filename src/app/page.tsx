@@ -187,8 +187,9 @@ const Home = () => {
               <h3 className="mb-4 text-blue-600">What’s in a Name</h3>
               <p className="mb-8 text-lg">
                 The name “H Road” represents our purpose and goal we have set
-                forth for our . The “H” represents Hyper. The “Road” represents
-                to Scale, Growth & Globalization. We strive to bring keenness of
+                forth for our customers. The “H” represents enabling High
+                Velocity or Turbocharging. The “Road” represents your journey to
+                Growth, Scale & Globalize. We strive to bring keenness of
                 execution in empowering our customer’s journey.
                 <br />
                 <br />
