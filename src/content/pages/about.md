@@ -39,7 +39,7 @@ features:
   - title: "About Roy Anderson, Advisor"
     image: "/images/roy_anderson.png"
     contentwidth: 8
-    backgroundclass: bg-white
+    backgroundclass: bg-gray-100
     content: "Roy Anderson, has transformed Procurement teams to supply value activists, implementing leading procurement technology in multiple industries including Universities, Commercial and Military manufacturing, Insurance and Financial Services.  <br/> <br/> He is currently a Supply Chain lecturer at Northeastern University and advisor to SC technology firms.  Roy was the CPO at Tradeshift and Managing Director of Procurement startup GoProcure.  <br/> <br/> Prior to GoProcure Roy was the Chief Procurement Officer for State Street Bank, MetLife and John Hancock.   Mr. Anderson holds a B.S. and an MBA from Babson College in Wellesley, MA" 
 
   - title: "About Brian, Advisor"
