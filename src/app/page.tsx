@@ -194,12 +194,13 @@ const Home = () => {
                 <br />
                 <br />
                 The name “H Road” also represents our purpose and goal we have
-                set forth for our . The “H” represents High Standards. We are
-                building a place where curiosity, creativity, collaboration, and
-                clarity, which are the bedrock of innovation, flourish for us
-                and our customers. The “Road” represents to have fun in
-                learning, trusting and growing together with our customers. We
-                are creating an experience we can be proud of.
+                set forth for our employees. The “H” represents High Standards.
+                We are building a place where curiosity, creativity,
+                collaboration, and clarity, which are the bedrock of innovation,
+                flourish for us and our customers. The “Road” represents our
+                collective journey to have fun in ideating, learning, trusting
+                and growing together with our customers. We are creating an
+                experience we can be proud of.
               </p>
             </div>
             <div className={`mb:md-0 mb-6 md:col-5`}>
