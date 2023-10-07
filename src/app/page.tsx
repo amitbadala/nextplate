@@ -2,7 +2,6 @@ import { ReactElement } from "react";
 import ImageFallback from "@/components/ImageFallback";
 import { getListPage } from "@/lib/contentParser";
 import { markdownify } from "@/lib/utils/textConverter";
-import Testimonials from "@/partials/Testimonials";
 import { Button, Feature, Testimonial } from "@/types";
 import { FaCheck } from "react-icons/fa/index.js";
 import MyCarousel from "./custom-carousel";
@@ -263,21 +262,6 @@ const Home = () => {
           </div>
         </section>
       ))}
-      {/* <div className="container">
-        <div className="row items-center justify-between">
-          <div className={`mb:md-0 mb-6 md:col-12`}>
-            <Testimonials
-              data={{
-                frontmatter: {
-                  testimonials: testimonials,
-                  title: "Our Value Proposition",
-                  description: "some desc",
-                },
-              }}
-            />
-          </div>
-        </div>
-      </div> */}
       <section id="about" className="bg-theme-light">
         {aboutFeatures
           .filter((feature) => !feature.title.includes("in a Name"))

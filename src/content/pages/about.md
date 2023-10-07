@@ -43,7 +43,7 @@ features:
     content: "Roy Anderson, has transformed Procurement teams to supply value activists, implementing leading procurement technology in multiple industries including Universities, Commercial and Military manufacturing, Insurance and Financial Services.  <br/> <br/> He is currently a Supply Chain lecturer at Northeastern University and advisor to SC technology firms.  Roy was the CPO at Tradeshift and Managing Director of Procurement startup GoProcure.  <br/> <br/> Prior to GoProcure Roy was the Chief Procurement Officer for State Street Bank, MetLife and John Hancock.   Mr. Anderson holds a B.S. and an MBA from Babson College in Wellesley, MA" 
 
   - title: "About Brian, Advisor"
-    image: "/images/brian.jpeg"
+    image: "/images/brian1.jpeg"
     contentwidth: 8
     backgroundclass: bg-white
     content: "Brian is an accomplished entrepreneur and executive with domestic and international operations, and P&L responsibility. Brian is a results oriented, decisive leader with proven success in market identification and infiltration.  Brian has a strong track record for increasing sales, while growing the bottom-line profitability and implementing operational improvements.<br/> <br/>  During the course of his career Brian has held executive level positions in numerous consulting and software development firms including EY, InfoLogix, Catalyst International and Intermec Technologies, Brian was also the cofounder of LogiStar Solutions (now part of EY) and SCT Software." 
