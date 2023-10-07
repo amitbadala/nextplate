@@ -45,7 +45,7 @@ features:
   - title: "About Brian, Advisor"
     image: "/images/brian.jpeg"
     contentwidth: 8
-    backgroundclass: bg-gray-100
+    backgroundclass: bg-white
     content: "Brian is an accomplished entrepreneur and executive with domestic and international operations, and P&L responsibility. Brian is a results oriented, decisive leader with proven success in market identification and infiltration.  Brian has a strong track record for increasing sales, while growing the bottom-line profitability and implementing operational improvements.<br/> <br/>  During the course of his career Brian has held executive level positions in numerous consulting and software development firms including EY, InfoLogix, Catalyst International and Intermec Technologies, Brian was also the cofounder of LogiStar Solutions (now part of EY) and SCT Software." 
   
   - title: "What’s in a Name"
