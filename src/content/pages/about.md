@@ -12,7 +12,7 @@ features:
     image: "/images/about.svg"
     backgroundclass: bg-gray-100
     contentwidth: 6
-    content: "H Road is a global management consulting firm with headquarters in Scottsdale, Arizona and offices in India. <br/><br/> H Road was founded by industry veterans, who are hands-on executives, and have started and scaled several SaaS, Consulting Service and industry businesses successfully over more than 25 years.  <br/> <br/>H Road helps organizations scale and stands by its promise of “Growth. Delivered.” It does so by harnessing the best of proven methodologies and processes in implementing go-to-market strategies, building breakthrough innovation, leveraging global talent and creating extra-ordinary customer experiences. "
+    content: "H Road is a global management consulting firm with headquarters in Scottsdale and offices in India. <br/><br/> H Road was founded by industry veterans, who are hands-on executives, and have started and scaled several SaaS, Consulting Service and industry businesses successfully over more than 25 years.  <br/> <br/>H Road helps organizations scale and stands by its promise of “Growth. Delivered.” It does so by harnessing the best of proven methodologies and processes in implementing go-to-market strategies, building breakthrough innovation, leveraging global talent and creating extra-ordinary customer experiences. "
     button:
       enable: false
       label: "Get Started Now"
