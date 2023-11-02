@@ -64,6 +64,7 @@ const Contact = () => {
                   className="form-input"
                   placeholder="John Doe"
                   type="text"
+                  required
                 />
               </div>
               <div className="mb-6">
@@ -75,6 +76,7 @@ const Contact = () => {
                   className="form-input"
                   placeholder="john.doe@email.com"
                   type="email"
+                  required
                 />
               </div>
               <div className="mb-6">
