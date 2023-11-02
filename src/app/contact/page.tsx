@@ -35,7 +35,7 @@ const Contact = () => {
       id="contact"
       className="section-sm"
       style={{
-        backgroundImage: 'url("/images/world_map_light.png")',
+        backgroundImage: 'url("/images/world_map_pune.png")',
         backgroundSize: "contain",
         backgroundPosition: "bottom",
         backgroundRepeat: "no-repeat",
