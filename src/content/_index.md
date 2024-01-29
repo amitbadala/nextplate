@@ -34,7 +34,7 @@ features:
       - "Integrate to your custom pre-sales and sales framework"
       - "Govern and measure for optimal efficiency"
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/amitbadala"
 
