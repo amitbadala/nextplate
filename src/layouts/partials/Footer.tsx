@@ -2,9 +2,7 @@
 
 import Logo from "@/components/Logo";
 import ScrollLink from "@/components/ScrollLink";
-import Social from "@/components/Social";
 import config from "@/config/config.json";
-import menu from "@/config/menu.json";
 
 // import social from "@/config/social.json";
 // import { markdownify } from "@/lib/utils/textConverter";
@@ -31,7 +29,7 @@ const Footer = () => {
             <p style={{ borderBottom: "1px solid #bcbcbc" }}>
               contact: <strong>info@thehroad.com</strong>
             </p>
-            <p>© 2023 H Road. All rights reserved.</p>
+            <p>© 2024 H Road. All rights reserved.</p>
             {/* <Social source={social} className="social-icons" /> */}
           </div>
           <div className="mb-8 text-right lg:col-4 lg:mb-0">
